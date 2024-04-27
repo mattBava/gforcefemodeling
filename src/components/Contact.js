@@ -10,7 +10,7 @@ function Contact() {
       <Form />
       <div className="right">
         <h3>Email</h3>
-        <a href="mailto:gforceremodelingnj@gmail.com">
+        <a href="mailto:AG@gforceremodelingnj.com">
           gforceremodelingnj@gmail.com
         </a>
         <br />
