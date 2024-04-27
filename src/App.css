@@ -159,6 +159,9 @@ border: solid 2px #0066cc;
 textarea{
   width: 43vw;
 }
+.car{
+  height: 90vh;
+}
 
 
 @media (max-width: 600px) {
