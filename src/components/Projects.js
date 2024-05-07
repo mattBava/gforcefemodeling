@@ -34,7 +34,6 @@ function Projects() {
             src={require("../assets/Closet.JPEG")}
             alt="of Closet"
           />
-          <br />
           <ul>
             <li>Year: 2022</li>
             <li>New Closet Doors</li>
